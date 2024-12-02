@@ -35,7 +35,7 @@ hide_share_buttons: true
 # Build settings
 #theme: minima
 #remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
