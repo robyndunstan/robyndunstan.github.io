@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   else I come up with.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  m1robyndunstan
+github_username:  robyndunstan
 linkedin_username: robyn-dunstan-32b24b55
 paginate: 5
 #paginate_path: "/blog/page:num"
