@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Virtual Escape Room"
 date:   2022-09-30
 author: Robyn

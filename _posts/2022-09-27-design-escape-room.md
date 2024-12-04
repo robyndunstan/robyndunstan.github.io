@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Design an Escape Room"
 date:   2022-09-27
 author: Robyn
