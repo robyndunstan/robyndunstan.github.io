@@ -46,7 +46,7 @@ about them.
 
 ## Eclipse
 
-<!-- picture here -->
+![Eclipse black cat](/assets/img/eclipse.jpg)
 
 ### Born October, 2014
 
@@ -57,7 +57,7 @@ favorite activities are eating, doing &quot;happy feet&quot; and snuggling with 
 
 ## Ferris
 
-<!-- picture here -->
+![Ferris gray tabby cat](/assets/img/ferris.jpg)
 
 ### Born September, 2016
 
