@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Software Developer
+## Software Developer
 
 I have about 10 years of experience with a variety of computer languages and technologies. The ones 
 I've worked with most recently are listed below. I'm always interested in learning new computer 
@@ -16,15 +16,15 @@ languages and programming technigues.
  - Java
  - PowerOn
 
-See some of my projects in [my other repositories](https://github.com/robyndunstan?tab=repositories)
+See some of my personal projects in [my other repositories](https://github.com/robyndunstan?tab=repositories)
 
------
+## Education
 
 I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, 
 it still has a great influence on me. To me, being a scientist isn't about how many facts one can 
 memorize, but instead it's a way of thinking. 
 
------
+## Hobbies
 
 I enjoy science fiction and fantasy stories, especially with good worldbuilding. Some of my 
 favorites, in no particular order:
@@ -44,24 +44,24 @@ I also enjoy doing crafts. Mostly, I crochet, though I occasionally dabble in ot
 And, then, there are my cats. They are my precious fur babies, and I love telling everyone stories 
 about them. 
 
-## Eclipse
+### Eclipse
 
 ![Eclipse black cat](/assets/img/eclipse.jpg)
 
-### Born October, 2014
+#### Born October, 2014
 
-### Adopted November, 2015
+#### Adopted November, 2015
 
 Eclipse showed up at my door the night before Halloween and begged to be adopted. His 
 favorite activities are eating, doing &quot;happy feet&quot; and snuggling with me. 
 
-## Ferris
+### Ferris
 
 ![Ferris gray tabby cat](/assets/img/ferris.jpg)
 
-### Born September, 2016
+#### Born September, 2016
 
-### Adopted July, 2020
+#### Adopted July, 2020
 
 Ferris is a little ninja. He zooms around the apartment and up and down the cat trees. He 
 even balances on top of doors. Ferris loves wrestling with and chasing his brother. 
