@@ -42,6 +42,10 @@ permalink: /pages/resources/
 
 - [MongoDB](https://www.mongodb.com/docs/manual/tutorial/)
 
+### Regular Expressions
+
+- [Regular Expression Syntax Cheat Sheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+
 ## Programming Tools
 
 ### Code Repository
