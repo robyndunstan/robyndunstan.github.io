@@ -27,6 +27,7 @@ permalink: /pages/resources/
 - [Angular](https://angular.io/)
     - [Angular Documentation](https://angular.dev/overview)
     - [Angular Material](https://material.angular.io/)
+    - [Angular University](https://blog.angular-university.io/)
 - [Learn RxJs](https://www.learnrxjs.io/)
 - [Jekyll](https://jekyllrb.com/docs/)
     - [Minima Theme](https://github.com/jekyll/minima)
@@ -46,6 +47,7 @@ permalink: /pages/resources/
 ### Code Repository
 
 - [GitHub](https://github.com/)
+    - [Azure DevOps/GitHub emoji list](https://bartwullems.blogspot.com/2020/08/azure-devops-github-emoji.html)
 - [Git](https://git-scm.com/)
 - [Blackbox](https://github.com/StackExchange/blackbox/blob/master/README.md)
 
@@ -60,16 +62,24 @@ permalink: /pages/resources/
 - [Node.js](https://nodejs.org/en/)
 - [Node Package Manager (NPM)](https://www.npmjs.com/)
 - [Node Version Manager (NVM) for Windows](https://github.com/coreybutler/nvm-windows)
+- [Chocolatey Package Manager](https://chocolatey.org/)
 
 ### Containerization
 
 - [Docker](https://hub.docker.com/)
 - [Docker Tutorial](https://docs.docker.com/get-started/)
+- [Docker Hub Container Image Library](https://hub.docker.com/)
 
 ### IDE
 
 - [Eclipse](https://www.eclipse.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+### Random Generators
+
+- [Fake Name Generator](https://www.fakenamegenerator.com/)
+- [Random.org](https://www.random.org/)
+- [Cat Ipsum](http://www.catipsum.com/index.php#.YnqjR4wpBaQ)
 
 ## Coding Puzzles
 
@@ -103,3 +113,25 @@ permalink: /pages/resources/
 - [Scan the World](https://www.myminifactory.com/scantheworld/full-collection)
 - [Thingiverse](https://www.thingiverse.com/) 
 - [Printables](https://www.printables.com/)
+
+## Science Tools
+
+- [Modules for Experiments in Stellar Astrophysics](https://docs.mesastar.org/en/24.08.1/index.html#)
+- [WorldWide Telescope](https://worldwidetelescope.org/webclient/)
+
+## News
+
+### General
+
+- [NPR](https://www.npr.org/)
+
+### Science
+
+- [Astrobites](https://astrobites.org/)
+- [Women in Astronomy](https://womeninastronomy.blogspot.com/)
+
+### Computer Programming
+
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [MDN Blog](https://developer.mozilla.org/en-US/blog/)
+- [Web Tools Weekly](https://webtoolsweekly.com/archive)
