@@ -7,6 +7,8 @@ permalink: /pages/resources/
 
 ## Computer Programming
 
+- [Dev Encyclopedia](https://devpedia.pages.dev/)
+
 ### HTML and CSS
 
 - [Wikibooks: Cascading Style Sheets](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
@@ -133,6 +135,7 @@ permalink: /pages/resources/
 
 - [Astrobites](https://astrobites.org/)
 - [Women in Astronomy](https://womeninastronomy.blogspot.com/)
+- [US Virtual Astronomical Observatory](https://usvao.org/)
 
 ### Computer Programming
 
