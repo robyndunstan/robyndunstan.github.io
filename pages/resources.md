@@ -19,6 +19,7 @@ permalink: /pages/resources/
 - [Eloquent JavaScript](https://eloquentjavascript.net/index.html)
 - [JQuery Learning Center](https://learn.jquery.com/)
 - [JQuery API Documentation](https://api.jquery.com/)
+- [Tixy tutorial - Match visual patterns with JavaScript](https://www.mathsuniverse.com/tixy)
 
 ### Frontend Frameworks
 
@@ -26,8 +27,7 @@ permalink: /pages/resources/
 - [Foundation](https://get.foundation/index.html),
 - [Material Design Lite](https://getmdl.io/started/index.html)
     - [Material Design Colors](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
-- [Angular](https://angular.io/)
-    - [Angular Documentation](https://angular.dev/overview)
+- [Angular](https://angular.dev/)
     - [Angular Material](https://material.angular.io/)
     - [Angular University](https://blog.angular-university.io/)
 - [Learn RxJs](https://www.learnrxjs.io/)
@@ -119,11 +119,6 @@ permalink: /pages/resources/
 - [Scan the World](https://www.myminifactory.com/scantheworld/full-collection)
 - [Thingiverse](https://www.thingiverse.com/) 
 - [Printables](https://www.printables.com/)
-
-## Science Tools
-
-- [Modules for Experiments in Stellar Astrophysics](https://docs.mesastar.org/en/24.08.1/index.html#)
-- [WorldWide Telescope](https://worldwidetelescope.org/webclient/)
 
 ## News
 
