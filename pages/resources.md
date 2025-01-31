@@ -4,6 +4,8 @@ title: Resources
 permalink: /pages/resources/
 ---
 
+- seed list
+{:toc}
 
 ## Computer Programming
 
