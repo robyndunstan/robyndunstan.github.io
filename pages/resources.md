@@ -61,6 +61,8 @@ permalink: /pages/resources/
 - [Quickstart: Route custom events to web endpoint with Azure CLI and Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart)
 - [Connect functions to Azure Storage using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs?tabs=isolated-process)
 - [Azure CLI Command List](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
+- [Managed user-assigned managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/how-manage-user-assigned-managed-identities?pivots=identity-mi-methods-azp)
+- [How to use managed identites for App Servcie and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Chttp)
 
 ## Programming Tools
 
