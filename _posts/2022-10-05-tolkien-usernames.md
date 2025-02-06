@@ -11,5 +11,6 @@ I'm writing unit tests for a C# API. I used to use a website that generated "rea
 | Name | Username |
 | --- | --- |
 | [Lobelia Sackville-Baggins](https://tolkiengateway.net/wiki/Lobelia_Sackville-Baggins) | betterbaggins@test |
+| Lotho Sackville-Baggins | the_chief@test |
 | [Curufinwe Feanaro](https://tolkiengateway.net/wiki/F%C3%ABanor) | bestfinwe@test |
 | [Telufinwe Ambarussa](https://tolkiengateway.net/wiki/Amras) | lastone@test |
