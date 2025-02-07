@@ -54,6 +54,7 @@ permalink: /pages/resources/
 
 ### Azure Functions
 
+- [Quickstart: Create your first C# function in Azure using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
 - [Azure Triggers and Bindings](https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings?tabs=isolated-process%2Cnode-v4%2Cpython-v2&pivots=programming-language-csharp)
 - [Quickstart: Route custom events to web endpoint with Azure CLI and Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart)
 - [How to work with Event Grid triggers and bindings in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos?tabs=v2%2Cportal#create-a-subscription)
