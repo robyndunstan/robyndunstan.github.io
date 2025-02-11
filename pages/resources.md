@@ -24,6 +24,7 @@ permalink: /pages/resources/
 - [JQuery Learning Center](https://learn.jquery.com/)
 - [JQuery API Documentation](https://api.jquery.com/)
 - [Tixy tutorial - Match visual patterns with JavaScript](https://www.mathsuniverse.com/tixy)
+- [JOSE - JSON Object Signing and Encryption](https://github.com/panva/jose)
 
 ### Frontend Frameworks
 
