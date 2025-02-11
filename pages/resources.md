@@ -60,6 +60,7 @@ permalink: /pages/resources/
 - [How to work with Event Grid triggers and bindings in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos?tabs=v2%2Cportal#create-a-subscription)
 - [Azure Event Grid event schema](https://learn.microsoft.com/en-us/azure/event-grid/event-schema)
 - [Azure Event Grid Viewer](https://github.com/Azure-Samples/azure-event-grid-viewer)
+- [Understanding event domains for managing Event Grid topics](https://learn.microsoft.com/en-us/azure/event-grid/event-domains?tabs=event-grid-event-schema#publishing-to-an-event-domain)
 - [Connect functions to Azure Storage using Visual Studio](https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs?tabs=isolated-process)
 - [Azure CLI Command List](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 - [Managed user-assigned managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/how-manage-user-assigned-managed-identities?pivots=identity-mi-methods-azp)
