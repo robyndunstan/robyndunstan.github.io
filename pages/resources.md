@@ -66,6 +66,7 @@ permalink: /pages/resources/
 - [Azure CLI Command List](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 - [Managed user-assigned managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/how-manage-user-assigned-managed-identities?pivots=identity-mi-methods-azp)
 - [How to use managed identites for App Servcie and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Chttp)
+- [Environment Variables](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library?tabs=v4%2Ccmd#environment-variables)
 
 ## Programming Tools
 
