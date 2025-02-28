@@ -44,6 +44,7 @@ permalink: /pages/resources/
 - [Wikibooks: C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming)
 - [JavaNotes](https://math.hws.edu/javanotes/)
 - [Glassfish Server](https://javaee.github.io/glassfish/documentation)
+- [C# - Create a custom JsonConverter for System.Text.Json](https://makolyte.com/system-text-json-how-to-customize-serialization-with-jsonconverter/)
 
 ### Databases
 
