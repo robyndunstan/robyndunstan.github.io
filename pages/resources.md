@@ -68,6 +68,7 @@ permalink: /pages/resources/
 - [How to use managed identites for App Servcie and Azure Functions](https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Chttp)
 - [Environment Variables](https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library?tabs=v4%2Ccmd#environment-variables)
 - [Configuring Queue Names and Blob Path Bindings in Azure Functions Configuration](http://dontcodetired.com/blog/post/Configuring-Queue-Names-and-Blob-Path-Bindings-in-Azure-Functions-Configuration)
+- [Environment variables in Azure Functions with Key Vault](https://dev.to/michaeljolley/environment-variables-in-azure-functions-with-key-vault-1ild)
 
 ## Programming Tools
 
