@@ -45,6 +45,7 @@ permalink: /pages/resources/
 - [JavaNotes](https://math.hws.edu/javanotes/)
 - [Glassfish Server](https://javaee.github.io/glassfish/documentation)
 - [C# - Create a custom JsonConverter for System.Text.Json](https://makolyte.com/system-text-json-how-to-customize-serialization-with-jsonconverter/)
+- [XUnit Documentation](https://xunit.net/#documentation)
 
 ### Databases
 
